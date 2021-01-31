@@ -1,0 +1,21 @@
+body {
+  background-color: #cae4db;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 6px;
+  width: 7%
+}
+
+h1 {
+  color: #276678;
+  font-family: cursive;
+}
+
+h3 {
+  color: #1687a7;
+  font-family: emoji;
+}
